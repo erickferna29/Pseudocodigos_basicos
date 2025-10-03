@@ -1,0 +1,15 @@
+C:\Users\eflgl\Documents\GitHub\Estructura_De_Datos\examen1-2d\obj\Debug\net9.0\examen1-2d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eflgl\Documents\GitHub\Estructura_De_Datos\examen1-2d\obj\Debug\net9.0\examen1-2d.AssemblyInfoInputs.cache
+C:\Users\eflgl\Documents\GitHub\Estructura_De_Datos\examen1-2d\obj\Debug\net9.0\examen1-2d.AssemblyInfo.cs
+C:\Users\eflgl\Documents\GitHub\Estructura_De_Datos\examen1-2d\obj\Debug\net9.0\examen1-2d.csproj.CoreCompileInputs.cache
+C:\Users\eflgl\Documents\GitHub\Estructura_De_Datos\examen1-2d\obj\Debug\net9.0\examen1-2d.sourcelink.json
+C:\Users\eflgl\Documents\GitHub\Estructura_De_Datos\examen1-2d\bin\Debug\net9.0\examen1-2d.exe
+C:\Users\eflgl\Documents\GitHub\Estructura_De_Datos\examen1-2d\bin\Debug\net9.0\examen1-2d.deps.json
+C:\Users\eflgl\Documents\GitHub\Estructura_De_Datos\examen1-2d\bin\Debug\net9.0\examen1-2d.runtimeconfig.json
+C:\Users\eflgl\Documents\GitHub\Estructura_De_Datos\examen1-2d\bin\Debug\net9.0\examen1-2d.dll
+C:\Users\eflgl\Documents\GitHub\Estructura_De_Datos\examen1-2d\bin\Debug\net9.0\examen1-2d.pdb
+C:\Users\eflgl\Documents\GitHub\Estructura_De_Datos\examen1-2d\obj\Debug\net9.0\examen1-2d.dll
+C:\Users\eflgl\Documents\GitHub\Estructura_De_Datos\examen1-2d\obj\Debug\net9.0\refint\examen1-2d.dll
+C:\Users\eflgl\Documents\GitHub\Estructura_De_Datos\examen1-2d\obj\Debug\net9.0\examen1-2d.pdb
+C:\Users\eflgl\Documents\GitHub\Estructura_De_Datos\examen1-2d\obj\Debug\net9.0\examen1-2d.genruntimeconfig.cache
+C:\Users\eflgl\Documents\GitHub\Estructura_De_Datos\examen1-2d\obj\Debug\net9.0\ref\examen1-2d.dll
